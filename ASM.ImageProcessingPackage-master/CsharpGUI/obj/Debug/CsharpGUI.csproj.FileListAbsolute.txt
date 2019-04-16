@@ -1,0 +1,10 @@
+C:\Users\Dodooo\Desktop\ASM.ImageProcessingPackage-master\ASM.ImageProcessingPackage-master\CsharpGUI\bin\Debug\CsharpGUI.exe.config
+C:\Users\Dodooo\Desktop\ASM.ImageProcessingPackage-master\ASM.ImageProcessingPackage-master\CsharpGUI\bin\Debug\CsharpGUI.exe
+C:\Users\Dodooo\Desktop\ASM.ImageProcessingPackage-master\ASM.ImageProcessingPackage-master\CsharpGUI\bin\Debug\CsharpGUI.pdb
+C:\Users\Dodooo\Desktop\ASM.ImageProcessingPackage-master\ASM.ImageProcessingPackage-master\CsharpGUI\obj\Debug\CsharpGUI.Form1.resources
+C:\Users\Dodooo\Desktop\ASM.ImageProcessingPackage-master\ASM.ImageProcessingPackage-master\CsharpGUI\obj\Debug\CsharpGUI.Properties.Resources.resources
+C:\Users\Dodooo\Desktop\ASM.ImageProcessingPackage-master\ASM.ImageProcessingPackage-master\CsharpGUI\obj\Debug\CsharpGUI.csproj.GenerateResource.cache
+C:\Users\Dodooo\Desktop\ASM.ImageProcessingPackage-master\ASM.ImageProcessingPackage-master\CsharpGUI\obj\Debug\CsharpGUI.csproj.CoreCompileInputs.cache
+C:\Users\Dodooo\Desktop\ASM.ImageProcessingPackage-master\ASM.ImageProcessingPackage-master\CsharpGUI\obj\Debug\CsharpGUI.exe
+C:\Users\Dodooo\Desktop\ASM.ImageProcessingPackage-master\ASM.ImageProcessingPackage-master\CsharpGUI\obj\Debug\CsharpGUI.pdb
+C:\Users\Dodooo\Desktop\ASM.ImageProcessingPackage-master\ASM.ImageProcessingPackage-master\CsharpGUI\obj\Debug\CsharpGUI.csprojAssemblyReference.cache
